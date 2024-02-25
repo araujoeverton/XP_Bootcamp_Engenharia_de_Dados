@@ -42,6 +42,12 @@ Podem ser classificados em modelo de <b>Batch</b> ( onde podem ser extraidos e d
 *O ETL ( Extract, Transform , Load ) 
 *O ELT ( Extract, Load, Transform )
 
+### Aula prática
+Neste momento reservamos um momento para o desenvolvimento de uma pipeline de dados, através do Google Colab.
+
+
+
+
 
 
 

@@ -1,8 +1,8 @@
-<img align="right" src="https://raw.githubusercontent.com//araujoeverton/XP_Bootcamp_Engenharia_de_Dados//e0ad751d99add1e0ddc9d10ce29e5ea273b40c66//assets//bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/f6654fa0ac1ed11dd4ba8b0b6a2d8eb87e4a0d12/assets/Apache_kafka_wordtype.svg" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/Apache_kafka_wordtype.svg" width="200"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize o material deste repositório para estudo!

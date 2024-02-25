@@ -29,6 +29,22 @@ A demanda provém de uma ideia de negócio, onde buscamos soluções através da
 - Arquitetura, pensando em  trazer técnicas e normas que preencham requisitos de segurança, disponibilidade dos serviços, escalabilidade, entre outros
 
 ### Pipelines de dados
+Podemos definir o pipeline de dados comp um fluxo de extração dos dados, podendo ou não ser transformados para uma entrega mais efetiva, e por fim sendo disponibilizados em um local específico para consumo dos mesmos.
+Podem ser classificados em modelo de <b>Batch>/b> ( onde podem ser extraidos e disponibilizados em período de tempo maior ) ou em <b>Streaming</b> ( onde o fluxo é contínuo e rápido ).
+
+### Workloads Streaming e Batch, e processos de ETL e ELT
+Streaming: Por conta da necessidade de escalabilidade de processamento de dados, muitas empresas por exemplo, deixaram o modelo monolitico para implementar modelos de microserviços em suas aplicações. Desta forma os dados vem de diversas fontes, e tudo isso precisa ser integrado e ter uma alta disponibilidade dependendo da regra de negócio. O Streaming veio para soclunionar estes problemas. Poderiamos citar empresas como Netflix, Uber, Ifood que adotam este modelo de workload.
+
+Batch: Os blocos de dados são armazenados e processados de tempos em tempos, não tendo uma necessidade tão alta de carga rápida dos dados.
+
+Micro Batch: É um meio termo entre os outros dois modelos de workloads, onde os dados são recebidos em stream, porém a carga tem um maior fluxo, não quase em real time como o Streaming, mas considerável.
+
+*O ETL ( Extract, Transform , Load ) 
+*O ELT ( Extract, Load, Transform )
+
+
+
+
 
 
 

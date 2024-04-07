@@ -43,8 +43,10 @@ O KsqlDB, é uma ferramenta a qual podes fazer transformações em fluxos contí
 - [x] Posssível reunir diversas fontes de dados dos clientes para criar um "perfil de cliente unificado";
 - [x] Provavelmente os dados com que desejamos trabalhar estarão em Batch;
 - [x] O Kafka Connect tem uma série de conectores open source;
-
-<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/ksqldb.jpg" /> ...
+      
+<div width="100%">
+<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/ksqldb.jpg" />
+</div>
 
 ## Stream Processing ( Spark Streaming )
 
@@ -52,7 +54,9 @@ O Spark Streaming permite o processamento escalável , de alto rendimento e tole
 - [x] Os dados podem ser ingeridos a partir de muitas fontes o processados por meio algoritmos complexos.
 
 ## Como funciona o Spark Streaming?
-<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/main-qimg-40deb35b86d4744e7d5187b463e39ea8.webp"/> ...
+<div width="100%">
+<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/main-qimg-40deb35b86d4744e7d5187b463e39ea8.webp"/>
+</div>
 
 ## Arquiteturas orientadas a evento
 A arquitetura baseada em eventos se refe a um sistema de microserviços que fracamente acoplados, trocam informações entre si, por meio d aprodução e do consumo de eventos.
@@ -61,15 +65,18 @@ A arquitetura baseada em eventos se refe a um sistema de microserviços que frac
 
 A arquitetura Lambda é um modelo de processamento de dados que combina processamento de dados em lotes e em tempo real, incluindo uma camada específica para responder a consultas de usuários. Esse método híbrido visa aproveitar grandes volumes de dados gerados rapidamente, facilitando o uso mais ágil dos dados pelas empresas.
 
-<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/netflix-delivery-stream.webp"/> ...
+<div width="100%">
+<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/netflix-delivery-stream.webp"/>
+</div>
 
 
 ## Kappa Architecture
 
 A Arquitetura Kappa é um modelo de processamento de dados em tempo real que simplifica a arquitetura, unificando o processamento de dados em lote e em streaming em um único pipeline. Ao contrário da Arquitetura Lambda, que mantém sistemas separados para esses processamentos, a Kappa usa um único sistema de streaming para lidar com todos os dados, o que facilita a manutenção e o desenvolvimento do sistema.
 
-<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/robinhood-delivery-stream.webp"/> ...
-
+<div width="100%">
+<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/robinhood-delivery-stream.webp"/>
+</div>
 
 
 

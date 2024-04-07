@@ -39,10 +39,18 @@ Responsáveis por ler e ou processar eventos recebidos pelos producers.
 ## Stream processing "[KsqlDB e Spark Streaming]"
 
 O KsqlDB, é uma ferramenta a qual podes fazer transformações em fluxos contínuos de dados;
-[x] Permite pegarmos tópicos existentes no Apache Kafka e , em seguida, filtrar, processar e criar novos tópicos derivados;
-[x] Posssível reunir diversas fontes de dados dos clientes para criar um "perfil de cliente unificado";
-[x] Provavelmente os dados com que desejamos trabalhar estarão em Batch;
-[x] O Kafka Connect tem uma série de conectores open source;
+- [x] Permite pegarmos tópicos existentes no Apache Kafka e , em seguida, filtrar, processar e criar novos tópicos derivados;
+- [x] Posssível reunir diversas fontes de dados dos clientes para criar um "perfil de cliente unificado";
+- [x] Provavelmente os dados com que desejamos trabalhar estarão em Batch;
+- [x] O Kafka Connect tem uma série de conectores open source;
+
+## Stream Processing ( Spark Streaming )
+
+O Spark Streaming permite o processamento escalável , de alto rendimento e tolerante a falhas de real time;
+- [x] Os dados podem ser ingeridos a partir de muitas fontes o processados por meio algoritmos complexos.
+
+## Como funciona o Spark Streaming?
+
 
 
 

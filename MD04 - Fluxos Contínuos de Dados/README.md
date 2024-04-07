@@ -65,9 +65,7 @@ A arquitetura baseada em eventos se refe a um sistema de microserviços que frac
 
 A arquitetura Lambda é um modelo de processamento de dados que combina processamento de dados em lotes e em tempo real, incluindo uma camada específica para responder a consultas de usuários. Esse método híbrido visa aproveitar grandes volumes de dados gerados rapidamente, facilitando o uso mais ágil dos dados pelas empresas.
 
-<div width="1080">
-<img align="left" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/netflix-delivery-stream.webp"/>
-</div>
+![Netflix Delivery Stream]("https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/netflix-delivery-stream.webp")
 
 
 ## Kappa Architecture

@@ -1,5 +1,15 @@
 <img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
 
+# Índice
+1. [O Profissional de Engenharia de Dados](#o-profissional-de-engenharia-de-dados)
+2. [Hard Skills](#hard-skills)
+3. [Soft Skills](#soft-skills)
+4. [O processo da engenharia](#o-processo-da-engenharia)
+5. [Pipelines de dados](#pipelines-de-dados)
+6. [Workloads Streaming e Batch, e processos de ETL e ELT](#workloads-streaming-e-batch-e-processos-de-etl-e-elt)
+7. [Aula prática](#aula-pr%C3%A1tica)
+
+   
 ## Introdução
 A área de tecnologia tem se incorporado ao negócio, o papel dos dados tem se tornado um ativo para as empresas e se tornado um fator determinante para seu sucesso. Com isso a demanda por engenheiros de dados tem aumentado, e a implementação d euma cultura data Driven se tornou cada vez mais frequente.
 Neste módulo Fundamentos em Engenharia de Dados, foi abordado de forma mais conceitual, o papel do engenheiro de dados.

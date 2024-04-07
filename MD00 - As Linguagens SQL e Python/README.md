@@ -1,11 +1,9 @@
 <img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
 
 # Índice
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
+1. [Características da Linguagem SQL](#caracter%C3%ADsticas-da-linguagem-sql)
+2. [Classes de instrução SQL](#classes-de-instru%C3%A7%C3%A3o-sql)
+3. [SQL x NoSQL](#sql-x-nosql)
 ## Introdução
 
 A linguagem SQL (Structured Query Language) foi desenvolvida pela IBM nos anos 1970. Ela surgiu da necessidade de ter uma linguagem padrão para interagir com bancos de dados relacionais. O projeto inicial, chamado de System R, tinha como objetivo criar um sistema de gerenciamento de banco de dados relacional.

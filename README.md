@@ -31,10 +31,12 @@ Desafio Final: Construção de um projeto End-to-End, utilizando o aclamado Apac
 
 
 
+
 ### Repositório destinado à estudos e documentação do projeto de formação.
 
+Acesso a pasta dos projetos: [Link](https://github.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/tree/main/Projetos)
 
-<div align="center">
+<div align="left">
   <p>
       <img src="https://img.shields.io/github/languages/count/alexklenio/DIO-dotnet-developer"/>
       <img src="https://img.shields.io/github/repo-size/alexklenio/DIO-dotnet-developer"/>

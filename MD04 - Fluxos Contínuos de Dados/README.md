@@ -44,7 +44,7 @@ O KsqlDB, é uma ferramenta a qual podes fazer transformações em fluxos contí
 - [x] Provavelmente os dados com que desejamos trabalhar estarão em Batch;
 - [x] O Kafka Connect tem uma série de conectores open source;
 
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/ksqldb.jpg" width="800"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/ksqldb.jpg" width="100%"/> ...
 
 ## Stream Processing ( Spark Streaming )
 
@@ -52,7 +52,7 @@ O Spark Streaming permite o processamento escalável , de alto rendimento e tole
 - [x] Os dados podem ser ingeridos a partir de muitas fontes o processados por meio algoritmos complexos.
 
 ## Como funciona o Spark Streaming?
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/main-qimg-40deb35b86d4744e7d5187b463e39ea8.webp" width="800"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/main-qimg-40deb35b86d4744e7d5187b463e39ea8.webp" width="100%"/> ...
 
 
 
